@@ -38,4 +38,14 @@ Thumbs.db
 # my files
 #######################
 #Don’t include these files
-curlCommands.txt
+list.txt
+new_list.txt
+Arduino/*
+ClientPrototype/*
+JupyterNotebooks/*
+LearningPlotly/*
+#EnergyDB/EnergyReading.db
+#EnergyDB/EnergyReadingModel.py
+EnergyDB/Query Energy DB.ipynb
+EnergyDB/__pycache__/*
+EnergyDB/.ipynb_checkpoints/*
